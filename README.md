@@ -69,14 +69,14 @@ I enjoy solving problems and learning new technologies.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishat-Yeasmin&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nishat-Yeasmin" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Nishat-Yeasmin" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
 </p>
 
