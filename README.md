@@ -42,7 +42,7 @@ I enjoy solving problems and learning new technologies.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 
-## 🌐 Connect With Me
+<!-- ## 🌐 Connect With Me
 
 
 <a href="www.linkedin.com/in/nishatyeasmin">
@@ -52,19 +52,21 @@ I enjoy solving problems and learning new technologies.
 
 <a href="nishatyasminnisha">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a> -->
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/nishatyeasmin" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://github.com/Nishat-Yeasmin" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-<!-- ## 📊 GitHub Stats
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishat-Yeasmin"/>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact"/> -->
+<a href="mailto:nishatyasminnisha@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ## 📊 GitHub Stats
 
