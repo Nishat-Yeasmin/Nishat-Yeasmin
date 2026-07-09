@@ -14,12 +14,15 @@ I am a Computer Science student passionate about Full Stack developer.
 I love building responsive and user-friendly applications.
 I enjoy solving problems and learning new technologies.
 
+
 ## 🚀 Current Activities
 
-- 🌱 Exploring Next.js
-- 💻 Building full-stack web applications
-- 📚 Improving Data Structures and Algorithms
-- 🔥 Learning modern full stack technologies
+- 🌱 Exploring Next.js and advanced React concepts.
+- 💻 Developing full-stack applications with MongoDB, Express, React, and Node.js.
+- 📚 Practicing Data Structures and Algorithms regularly.
+- 🚀 Improving my GitHub profile and building a strong developer portfolio.
+
+
 
 ## 🛠️ Skills
 
