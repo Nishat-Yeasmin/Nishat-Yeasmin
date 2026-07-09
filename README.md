@@ -1,16 +1,65 @@
-## Hi there 👋
+![Banner](./assets/Banner.png)
 
-<!--
-**Nishat-Yeasmin/Nishat-Yeasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hi 👋, I'm Nishat Yeasmin
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Full Stack Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a Computer Science student passionate about Full Stack developer.
+I love building responsive and user-friendly applications.
+I enjoy solving problems and learning new technologies.
+
+## 🚀 Current Activities
+
+- 🌱 Exploring Next.js
+- 💻 Building full-stack web applications
+- 📚 Improving Data Structures and Algorithms
+- 🔥 Learning modern full stack technologies
+
+## 🛠️ Skills
+
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+
+## 🌐 Connect With Me
+
+
+<a href="www.linkedin.com/in/nishatyeasmin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+
+<a href="nishatyasminnisha">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+
+## 📊 GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishat-Yeasmin"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact"/>
+
