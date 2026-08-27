@@ -5,8 +5,10 @@ Hi 👋, I'm Nishat Yeasmin
 </h1>
 
 <h3 align="center">
-Full Stack Developer
+Full Stack Developer | CSE Student | Competetive Programmer.
 </h3>
+
+<p align="center"> <a href="https://github.com/Nishat-Yeasmin"> <img src="https://komarev.com/ghpvc/?username=Nishat-Yeasmin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> </p>
 
 ## 👩‍💻 About Me
 
@@ -26,18 +28,22 @@ I enjoy solving problems and learning new technologies.
 
 ## 🛠️ Skills
 
+### Programming Languages
+
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,js,java" /> </p>
+
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 
-### Backend
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 
-### Tools
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
@@ -52,7 +58,7 @@ I enjoy solving problems and learning new technologies.
 
 <a href="nishatyasminnisha">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a> -->
+</a> --> -->
 
 ## 🌐 Connect With Me
 
@@ -68,7 +74,7 @@ I enjoy solving problems and learning new technologies.
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nishat-Yeasmin&show_icons=true" />
@@ -80,5 +86,28 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
-</p>
+</p> -->
+
+### 📊 GitHub Statistics
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Nishat's GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Nishat-Yeasmin&hide_border=true&theme=transparent" alt="GitHub Streak" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" /> </p>
+
+
+### 🏆 GitHub Achievements
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" /> </p>
+
+### 📈 Contribution Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" /> </p>
+
+### 💡 Developer Philosophy
+
+"Build. Learn. Solve. Improve. Repeat."
+
+I believe consistent learning and hands-on practice are the keys to becoming a better developer.
 
