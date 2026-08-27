@@ -79,18 +79,18 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_purple"
     alt="Nishat's GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github_purple"
     alt="Nishat's GitHub Stats"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github_purple"
     alt="Most Used Languages"
   />
 </p>
