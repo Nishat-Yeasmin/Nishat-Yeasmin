@@ -76,30 +76,28 @@ I enjoy solving problems and learning new technologies.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
 </p> -->
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&include_all_commits=true&count_private=true"
     alt="Nishat's GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Nishat-Yeasmin&hide_border=true&theme=transparent"
-    alt="GitHub Streak"
+  <img
+    src="https://streak-stats.demolab.com/?user=Nishat-Yeasmin"
+    alt="Nishat's GitHub Streak"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&langs_count=8"
     alt="Top Languages"
   />
 </p>
-
-
 
 ### 🏆 GitHub Achievements
 
@@ -112,14 +110,14 @@ I enjoy solving problems and learning new technologies.
 
 
 
-### 📈 Contribution Activity
+<!-- ### 📈 Contribution Activity
 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&hide_border=true&theme=github-compact"
     alt="GitHub Activity Graph"
   />
-</p>
+</p> -->
 
 
 
