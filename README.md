@@ -113,12 +113,13 @@ I enjoy solving problems and learning new technologies.
   />
 </p>
 
-### 📈 Contribution Activity
+
+### 📈 Contribution Activity (Animated)
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border=a855f7"
-    alt="Nishat's Contribution Graph"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7&color_dots=%23161b22,%233b0764,%236b21a8,%239333ea,%23c084fc"
+    alt="Nishat's Animated Contribution Graph"
   />
 </p>
 
