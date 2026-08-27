@@ -8,7 +8,6 @@ Hi 👋, I'm Nishat Yeasmin
 Full Stack Developer | CSE Student | Competetive Programmer.
 </h3>
 
-<p align="center"> <a href="https://github.com/Nishat-Yeasmin"> <img src="https://komarev.com/ghpvc/?username=Nishat-Yeasmin&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> </p>
 
 ## 👩‍💻 About Me
 
@@ -80,9 +79,16 @@ I enjoy solving problems and learning new technologies.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <!-- Profile Summary Cards -->
+  <!-- Profile Summary Card (White & Green Animated) -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_purple"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_dark&animation=rgb-soft"
+    alt="Nishat's GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=solarized_dark"
     alt="Nishat's GitHub Profile Summary"
   />
 </p>
