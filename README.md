@@ -74,7 +74,10 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
-</p> -->### 📊 GitHub Statistics
+</p> -->
+
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <!-- Profile Summary -->
@@ -85,11 +88,12 @@ I enjoy solving problems and learning new technologies.
 </p>
 
 <p align="center">
-  <!-- Animated White & Purple Neon Stats Card -->
+  <!-- White & Green Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=c084fc&text_color=ffffff&icon_color=a855f7&border_color=a855f7&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=dark&bg_color=0d1117&title_color=39d353&text_color=ffffff&icon_color=39d353&border_color=26a641&count_private=true"
     alt="Nishat's GitHub Stats"
   />
+</p>
   <br/><br/>
   <!-- Animated Language Breakdown Card -->
   <img
