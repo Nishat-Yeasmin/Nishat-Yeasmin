@@ -87,13 +87,6 @@ I enjoy solving problems and learning new technologies.
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=solarized_dark"
-    alt="Nishat's GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
   <!-- Reliable Working Animated Stats (White & Purple) -->
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=c084fc&text_color=ffffff&icon_color=a855f7&border_color=a855f7&count_private=true"
