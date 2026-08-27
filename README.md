@@ -118,11 +118,10 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%23a855f7&color_dots=%23161b22,%233b0764,%236b21a8,%239333ea,%23c084fc"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353"
     alt="Nishat's Animated Contribution Graph"
   />
 </p>
-
 
 
 ### 💡 Developer Philosophy
