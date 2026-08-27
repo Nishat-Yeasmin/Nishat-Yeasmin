@@ -76,28 +76,29 @@ I enjoy solving problems and learning new technologies.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
 </p> -->
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&include_all_commits=true&count_private=true"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github"
+    alt="Nishat's GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github"
     alt="Nishat's GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Nishat-Yeasmin"
-    alt="Nishat's GitHub Streak"
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github"
+    alt="Most Used Languages"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
 
 ### 🏆 GitHub Achievements
 
@@ -108,6 +109,15 @@ I enjoy solving problems and learning new technologies.
   />
 </p>
 
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Nishat-Yeasmin"
+    alt="Nishat's GitHub Streak"
+  />
+</p>
 
 
 <!-- ### 📈 Contribution Activity
