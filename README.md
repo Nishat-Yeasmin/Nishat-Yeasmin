@@ -79,25 +79,21 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_dark"
     alt="Nishat's GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github_dark"
     alt="Nishat's GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github_dark"
     alt="Most Used Languages"
   />
 </p>
-
 
 ### 🏆 GitHub Achievements
 
@@ -118,14 +114,14 @@ I enjoy solving problems and learning new technologies.
   />
 </p>
 
-<!-- ### 📈 Contribution Activity
+### 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&hide_border=true&theme=github-compact"
-    alt="GitHub Activity Graph"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="Nishat's Contribution Graph"
   />
-</p> -->
+</p>
 
 
 
