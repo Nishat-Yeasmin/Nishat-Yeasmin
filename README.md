@@ -86,7 +86,7 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nishat-Yeasmin&theme=github_purple"
+    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7"
     alt="Nishat's GitHub Stats"
   />
   <img
@@ -99,17 +99,16 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=dracula&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   />
 </p>
-
 
 ### 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Nishat-Yeasmin"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Nishat-Yeasmin&theme=dracula&background=0D1117&fire=A855F7&ring=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideTitle=A855F7&currStreakLabel=A855F7&dates=888888"
     alt="Nishat's GitHub Streak"
   />
 </p>
@@ -118,7 +117,7 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&border=a855f7"
     alt="Nishat's Contribution Graph"
   />
 </p>
