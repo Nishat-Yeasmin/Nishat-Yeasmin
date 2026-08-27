@@ -48,18 +48,6 @@ I enjoy solving problems and learning new technologies.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 
 
-<!-- ## 🌐 Connect With Me
-
-
-<a href="www.linkedin.com/in/nishatyeasmin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-
-<a href="nishatyasminnisha">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a> --> -->
-
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/nishatyeasmin" target="_blank">
@@ -90,20 +78,50 @@ I enjoy solving problems and learning new technologies.
 
 ### 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Nishat's GitHub Stats" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
+    alt="Nishat's GitHub Stats"
+  />
+</p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Nishat-Yeasmin&hide_border=true&theme=transparent" alt="GitHub Streak" /> </p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Nishat-Yeasmin&hide_border=true&theme=transparent"
+    alt="GitHub Streak"
+  />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&hide_border=true&langs_count=8&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 ### 🏆 GitHub Achievements
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" /> </p>
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+
 
 ### 📈 Contribution Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&hide_border=true&theme=github-compact" alt="GitHub Activity Graph" /> </p>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nishat-Yeasmin&hide_border=true&theme=github-compact"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+
 
 ### 💡 Developer Philosophy
 
