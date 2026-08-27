@@ -74,10 +74,10 @@ I enjoy solving problems and learning new technologies.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact" />
-</p> -->
-### 📊 GitHub Statistics
+</p> -->### 📊 GitHub Statistics
 
 <p align="center">
+  <!-- Profile Summary -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishat-Yeasmin&theme=github_purple"
     alt="Nishat's GitHub Profile Summary"
@@ -85,24 +85,19 @@ I enjoy solving problems and learning new technologies.
 </p>
 
 <p align="center">
+  <!-- Animated White & Purple Neon Stats Card -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=a855f7"
+    src="https://github-readme-stats.vercel.app/api?username=Nishat-Yeasmin&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=c084fc&text_color=ffffff&icon_color=a855f7&border_color=a855f7&count_private=true&include_all_commits=true"
     alt="Nishat's GitHub Stats"
   />
+  <br/><br/>
+  <!-- Animated Language Breakdown Card -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishat-Yeasmin&theme=github_purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat-Yeasmin&layout=compact&theme=synthwave&bg_color=0d1117&title_color=c084fc&text_color=ffffff&hide_border=false&border_color=a855f7"
     alt="Most Used Languages"
   />
 </p>
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Nishat-Yeasmin&theme=dracula&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ### 🔥 GitHub Streak
 
@@ -112,6 +107,7 @@ I enjoy solving problems and learning new technologies.
     alt="Nishat's GitHub Streak"
   />
 </p>
+
 
 
 ### 📈 Contribution Activity (Animated)
